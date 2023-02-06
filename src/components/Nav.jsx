@@ -1,9 +1,9 @@
 import React from 'react';
-// import nav data
+// importar nav data
 import { navData } from '../data';
 
 const Nav = () => {
-  // destructure nav data
+  // desestrutura nav data
   const { items } = navData;
   return (
     <nav>
