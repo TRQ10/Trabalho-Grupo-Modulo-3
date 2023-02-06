@@ -11,7 +11,7 @@
 <li>Utilizar a biblioteca react-router-dom</li>
 </ul>
 
-<h2>Tecnologias 🔮 </h2>
+<h2>Tecnologias 🔮</h2>
 <ul>
 <li>Tailwind</li>
 <li>Axios</li>
