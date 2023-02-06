@@ -1,7 +1,8 @@
 <h1>Projeto em grupo - Módulo 3 </h1>
 
 <h2>Sobre o Projeto 💻</h2>
-<p align="justify">O projeto consiste em desenvolver um site utilizando React e Json Server.</p>
+<p align="justify">O projeto deverá ser construído usando o framework React aprendido em aula, nele iremos desenvolver um site que
+deverá utilizar um servidor Json.</p>
 
 <h2>Requisitos 🛠</h2>
 <ul>
