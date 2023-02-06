@@ -21,3 +21,6 @@
 </ul>
 
 <h2>Layout da Página🗺</h2>
+<img src="https://raw.githubusercontent.com/TRQ10/Trabalho-Grupo-Modulo-3/main/src/img/gallery/interface.png"></img>
+
+<h2>Contribuidores 🌟</h2>
