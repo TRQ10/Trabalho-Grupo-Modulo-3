@@ -1,6 +1,6 @@
 <h1>Projeto em grupo - Módulo 3 </h1>
 
-<h2>Sobre o Projeto 💻</h2>
+<h2>Sobre o Projeto </h2>
 <p align="justify">O projeto consiste em desenvolver um site utilizando React e Json Server.</p>
 
 <h2>Requisitos 🛠</h2>
