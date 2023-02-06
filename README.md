@@ -25,5 +25,3 @@ deverá utilizar um servidor Json.</p>
 <img src="https://raw.githubusercontent.com/TRQ10/Trabalho-Grupo-Modulo-3/main/src/img/gallery/interface.png"></img>
 
 <h2>Contribuidores 🌟</h2>
-
-https://www.canva.com/design/DAFZplP-WWs/r9Lo0M14Z0F_6UVt1nDjzQ/view?utm_content=DAFZplP-WWs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
