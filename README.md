@@ -17,7 +17,7 @@
 <li>Axios</li>
 <li>Vite</li>
 <li>Post CSS</li>
-<li>entre outras</li>
+<li>Entre outras</li>
 </ul>
 
 <h2>Layout da Página🗺</h2>
