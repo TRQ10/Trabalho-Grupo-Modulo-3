@@ -25,3 +25,6 @@ deverá utilizar um servidor Json.</p>
 <img src="https://raw.githubusercontent.com/TRQ10/Trabalho-Grupo-Modulo-3/main/src/img/gallery/interface.png"></img>
 
 <h2>Contribuidores 🌟</h2>
+<a href="https://github.com/TRQ10/Trabalho-Grupo-Modulo-3/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TRQ10/Trabalho-Grupo-Modulo-3" />
+</a>
